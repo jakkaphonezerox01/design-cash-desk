@@ -38,6 +38,17 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
+    /* Payment Modal Colors */
+    --payment-modal-bg: 210 19% 13%;
+    --payment-modal-foreground: 210 40% 98%;
+    --payment-modal-border: 210 19% 20%;
+    --payment-amount-bg: 210 19% 18%;
+    --payment-timer: 25 95% 53%;
+    --payment-success: 142 76% 36%;
+    --payment-success-bg: 142 76% 36% / 0.1;
+    --payment-upload-border: 142 76% 36%;
+    --payment-upload-bg: 142 76% 36% / 0.05;
+
     --sidebar-background: 0 0% 98%;
 
     --sidebar-foreground: 240 5.3% 26.1%;

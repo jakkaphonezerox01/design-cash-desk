@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				payment: {
+					modal: 'hsl(var(--payment-modal-bg))',
+					'modal-foreground': 'hsl(var(--payment-modal-foreground))',
+					'modal-border': 'hsl(var(--payment-modal-border))',
+					'amount-bg': 'hsl(var(--payment-amount-bg))',
+					timer: 'hsl(var(--payment-timer))',
+					success: 'hsl(var(--payment-success))',
+					'success-bg': 'hsl(var(--payment-success-bg))',
+					'upload-border': 'hsl(var(--payment-upload-border))',
+					'upload-bg': 'hsl(var(--payment-upload-bg))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
